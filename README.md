@@ -23,7 +23,7 @@
 <a href="https://instagram.com/parvgosani" target="blank"><img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x1ZjJndjE5Y3NzZ3luMmZvNnEyM3M1bHI0dDJlcHdrbXdobHpuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YmiCZ8HXvVl5M4/giphy.gif" alt="parvgosani" height="60" width="60" /></a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Tech I work with 👨‍💻</h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://media1.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif?cid=ecf05e476ffmirsuag00pi2r77h1q0rje7f2ssjo123iqma3&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="android" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://media0.giphy.com/media/UySAHviCpoGp5uNwJK/giphy.gif?cid=ecf05e476gqw7u76z8dau5qhq7gwd6kndnwdnu29fnkshb8m&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="css3" width="40" height="40"/> </a>
