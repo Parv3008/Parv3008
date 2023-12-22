@@ -19,7 +19,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/parvgosani" target="blank"><img align="center" src="https://media1.tenor.com/m/QMA2IhoAaE0AAAAC/multiversx-x-twitter.gif" alt="parvgosani" height="60" width="60" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/parv gosani" target="blank"><img align="center" src="https://c.tenor.com/KOki-OrS24AAAAAC/tenor.gif" alt="parv gosani" height="60" width="60" /></a>&nbsp;&nbsp;
+<a href="www.linkedin.com/in/parv-gosani-413434221" target="blank"><img align="center" src="https://c.tenor.com/KOki-OrS24AAAAAC/tenor.gif" alt="parv gosani" height="60" width="60" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/parvgosani" target="blank"><img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x1ZjJndjE5Y3NzZ3luMmZvNnEyM3M1bHI0dDJlcHdrbXdobHpuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YmiCZ8HXvVl5M4/giphy.gif" alt="parvgosani" height="60" width="60" /></a>
 </p>
 
