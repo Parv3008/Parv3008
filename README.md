@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/parvgosani" target="blank"><img src="https://img.shields.io/twitter/follow/parvgosani?logo=twitter&style=for-the-badge" alt="parvgosani" /></a> </p>
 <img align="right" alt="Coding" width="350" src="https://img.freepik.com/free-vector/young-programmer-working-laptop-computer-cartoon-character_24797-2123.jpg?size=626&ext=jpg&ga=GA1.1.1166027783.1699291992&semt=ais">
-&nbsp;&nbsp;&nbsp; - 🌱 I’m currently learning React and Next.js, A.I, DSA, Compiler design.
+&nbsp;&nbsp;&nbsp; - 🌱 I’m currently learning React and Next.js, A.I, DSA.
 
 - 🧑🏻‍💻 I’m currently working on my portfolio website using React and Next.js
 
-- 💬 Ask me about **C, HTML, CSS, Javascript**
+- 💬 Ask me about **C, HTML, CSS, Javascript, Python**
 
 - 📫 How to reach me parvgosani30@gmail.com
 
